@@ -5,3 +5,6 @@ My name is Queen and i am tying out github for the first time
 
 
 hopefully this works
+
+
+| git < comand> --help
